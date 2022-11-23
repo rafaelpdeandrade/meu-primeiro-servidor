@@ -1,0 +1,19 @@
+{
+  "name": "meu-primeiro-servidor",
+  "version": "0.0.1",
+  "description": "Primeiro servidor criado pelo aluno no curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Rafael Pereira de Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
